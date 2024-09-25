@@ -106,4 +106,4 @@ A web-based to-do list application that allows users to add, edit, and delete ta
 
 
 ## Video Sample
-<video controls src="assests/perma.mp4" title="Title"></video>
+[<video controls src="assests/perma.mp4" title="Title"></video>](https://github.com/user-attachments/assets/0383e0ff-c611-4372-a060-8bf306dfd94e)
